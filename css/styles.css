@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('../assets/img/fondo.jpg');
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-size: 3.125rem;
+    font-weight: 200;
+    font-family: 'Libre Baskerville', serif;
+    display: inline-block;
+    margin-top: 1.875rem;
+    margin-left: 1.875rem;
+    border-color: black;
+}
+
+h2{
+    color: white;
+    font-size: 1.5625rem;
+    font-weight: 200;
+    font-family: 'Libre Baskerville', serif;
+    margin-left: 1.875rem;
+    border-color: black;
+}
